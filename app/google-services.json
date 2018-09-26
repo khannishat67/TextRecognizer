@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "918535496960",
+    "firebase_url": "https://textrecognizer-ef3c6.firebaseio.com",
+    "project_id": "textrecognizer-ef3c6",
+    "storage_bucket": "textrecognizer-ef3c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918535496960:android:f3d5e0a10e0ff7dd",
+        "android_client_info": {
+          "package_name": "com.inttech.nishat.textrecognizer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918535496960-h9ljjs1dcohiolsivsjmsosqtcalqnch.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.inttech.nishat.textrecognizer",
+            "certificate_hash": "962922c331ed111bd5399e75cddba09e79ed38fc"
+          }
+        },
+        {
+          "client_id": "918535496960-7c6cm4ivmte9mpapoeb6ngd6eba50nfl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzAx0yr1eKIlBj6VHOFnEo13x_tO5HQY0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918535496960-7c6cm4ivmte9mpapoeb6ngd6eba50nfl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
